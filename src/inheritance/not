@@ -1,0 +1,10 @@
+Singel Inheritance : bir child in bir parent class i olur.
+Multi Level: Bir parent class in birden fazla child classi olabilir. Ancak chil in tek parent class i olur. parent, altinda parent,
+altinda parent, altinda child olabilir.
+Hierarchical Inheritance: birden fazla class ayni class i parent olarak kullanabilir.
+
+Object Class tüm parent larin babasidir. ustu yoktur. parent i olmayan tek class dir.
+
+Multiple Inheritance: Bir child in birden fazla parent i olmaz. Java bunu REDDEDER. chil in kafasi karisir birden
+fazla parent da.
+

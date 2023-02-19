@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="119320ac-3f8e-4b95-8cf0-e0b85466af4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Bilgiler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive/Recursive1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive/Recursive2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive/Recursive3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive/Recursive4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accesModifiers03/C01_kullanici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accesModifiers03/C02_kullaniciRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accesModifiers04/C01_KullaniciRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accesModifiers04/C02_kullaniciRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arithmatic_logical_operator/ArithmeaticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arithmatic_logical_operator/AssigementOpartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arithmatic_logical_operator/KarislastirmaOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arithmatic_logical_operator/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/A9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/AsciiValue07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/Q01_Ascii_Karakterler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/A7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/C01_LocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/C01_LocalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/C03_LocalDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/C04_Period.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/date_time/C05_dateTimeFormetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/ArabaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/OgretmenRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Tasit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/TasitRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A2_Sifre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A6_Donusturucu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_statement/A8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfElse01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfElseIf02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfElseIf03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfStatements02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfStatements03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfStatements04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/IfStatements05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/NestedIf01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/NestedIf02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/Ternary01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/Ternary02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/Ternary03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/Ternary04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_ternary_nested/Ternary05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/C01_IK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/C02_Muhasebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/C03_Memur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/C04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/C05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/C06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/not" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Apartman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Lambda03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Lambda04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/List08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C01_forLoop_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C02_forLoop_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C03_forLoop_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C04_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C05_forLoop_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C06_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C07_forLoop_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C08_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C09_forLoop_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C10_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C11_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/C18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_lambda/L4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/M5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/M6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Calcualator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/IsimVeKKarti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/MethodCreation01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/MethodCreation02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/MethodCreation03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/MethodCreationNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/ReverseMethodRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/SchoolRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/StringReverseMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/sayi_bulma_oyunu/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/sayi_bulma_oyunu/SayiBulmaca24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_dimension_array/C08_mda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_dimension_array/C09_mda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_dimension_array/C10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_dimension_array/C11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/DoWhileLoop13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/ForLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/ForWhileDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedloop_forlooop/NestedLoop06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/Telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passByValue/C01_passByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passByValue/C04_passByReferans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphisim/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphisim/BMW_314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphisim/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphisim/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphisim/CRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphisim/OverRiding1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/S4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/S5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/C01_constructer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/C01_staticKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/C02_StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/StaticMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C01_stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C02_ekleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C03_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C04_silme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C05_indexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C06_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_builder/C07_subString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmanipulation/A7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/Switch07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/enum_1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/enum_1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/enum_2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/enum_2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_if/myClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternary/A8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varargs/NoVarargs01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varargs/Varargs01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varargs/Varargs02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varargs/Varargs03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable_swap_wrapper/DataTYpeLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable_swap_wrapper/SwapVariable02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable_swap_wrapper/SwapVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable_swap_wrapper/Variable01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable_swap_wrapper/Variable03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable_swap_wrapper/WrpperClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/DoWhileLoop13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/ForWhileDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/WhileLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/WhileLoop02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/WhileLoop03.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L9EneOi6w69LXrrTUxUbtOpXXt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hakan Batırhan/IdeaProjects/methods&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.C06">
+    <configuration name="C03_Memur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.C03_Memur" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.C06" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Lambda03" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Lambda04" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java_Bilgiler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C06" />
+        <item itemvalue="Application.C03_Memur" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lambda04" />
+        <item itemvalue="Application.Lambda03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="119320ac-3f8e-4b95-8cf0-e0b85466af4f" name="Changes" comment="" />
+      <created>1675275068901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675275068901</updated>
+    </task>
+    <servers />
+  </component>
+</project>

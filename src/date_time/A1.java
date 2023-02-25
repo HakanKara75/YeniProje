@@ -1,4 +1,4 @@
-package date_time;
+package oca_soru_cozumleri\date_time;
 
 import java.sql.Date;
 import java.time.LocalDate;

@@ -1,0 +1,41 @@
+public class C {
+public int x = 11;
+public void m() { System.out.println("Good"); }
+}
+public class B extends C {
+public int x = 12;
+public void m() { System.out.println("Bad"); }
+}
+public class A extends B {
+public static void main(String[] args) {
+ B b = new B();
+ b.m(); // metotta clasa gider. B class ta Bad yazdırır.
+ System.out.println(b.x); // variable da data tipine gider. B de data tipi 12.
+
+ C c = new B();
+ c.m(); // metotta clasa gider. B class ta Bad yazdırır.
+ System.out.println(c.x); // variable da data tipine gider. C de data tipi 11.
+
+ C d = new C();
+ d.m(); // metotta clasa gider. C d = new C(); de sağ taraf class. C class ta Good yazdırır.
+ System.out.println(d.x); // variable da data tipine gider. C d = new C(); de sol taraf data tipi C de data tipi 11.
+}
+395.	Output?
+A) Bad
+12
+Bad
+11
+Good
+11
+B) Bad
+12
+Bad
+12
+Good
+11
+C) Bad
+12
+Good
+11
+Good
+11

@@ -2,7 +2,7 @@ package inheritance;
 
 public class C01_IK {
 
-    public int sayac=1000;
+    public static int sayac=1000;
         protected String isim;
         protected String soyisim;
         protected String adres;

@@ -31,4 +31,5 @@ public class Telefon {
     olusturdugunuz constructer'a marka model ve fiyat parametreleri ekleyin
     ve main classi olusturup o class icinden cagirip birkac tane telefon ekleyin
     */
+
 }

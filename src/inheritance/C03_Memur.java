@@ -32,7 +32,7 @@ public class C03_Memur extends C02_Muhasebe {
         System.out.println(memur1.maasHesapla());
         System.out.println(memur1.mesaiHesapla());
         System.out.println("Toplam maas: "+memur1.maasHesapla()+memur1.mesaiHesapla());
-        System.out.println(memur.id);
+        System.out.println(memur1.id);
 
 
     }

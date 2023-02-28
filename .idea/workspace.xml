@@ -5,99 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0e3da88-bf8c-4d9b-9350-4dcae0b69933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ab01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Caller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a1/Ab01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a2/Ab01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a3/Ab01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a4/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a4/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a4/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstracts/a4/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_list/C8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concat/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/date_time/D1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/date_time/D2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/date_time/D3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/E1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/E2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_each_loop/F8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_loop/F1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_statement/A9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/I1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call/soru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/constructor_call1/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/i1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/i1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/i1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/oriding1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/oriding1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/oriding1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding3/Test06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding4/O1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding4/O2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding4/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding4/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overriding_overloading/overriding4/Test06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_builder/C10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_builder/C11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_builder/C8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_builder/C9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varargs/V4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varargs/V5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varargs/V6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/E2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/YasHataClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/date_time/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/A1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/C01_IK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/C01_IK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/C03_Memur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/C03_Memur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/overriding_overloading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overriding_overloading/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/overriding_overloading/Telefon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overriding_overloading/Telefon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,14 +36,40 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HakanBatirhan/IdeaProjects/oca"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HakanBatirhan/IdeaProjects/Java_Bilgiler&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.E">
+    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.E" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.E2" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestCall" />
       <module name="Java_Bilgiler" />
@@ -128,6 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E" />
+        <item itemvalue="Application.E2" />
         <item itemvalue="Application.TestCall" />
       </list>
     </recent_temporary>

@@ -1,0 +1,9 @@
+Set: tekrarsiz eleman kaydeder. tckimlik gibi
+Queue: ilk giren ilk işleme girer. eleman ekleme en sona olur. çikarma istendigi yerden olur.
+
+Linked: birbirine bağlı yapılar. ilk eleman head dir. sadece adres barindirin. son eleman null dir. her eleman icinda data
+ve adres olmak uzere iki kisim vardir. tum elemanlar pointer/adres ile birbirine baglidir. Her eleman mod olarak
+adlandirilir. Pointer yapisindan dolayi yavastir. iki interface in childirir. List ve Deque nin cocugudur.
+
+Tree: ekleme çikarma çok yavas. ekleme dogal siralama ile olur.
+Hash:

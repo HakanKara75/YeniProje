@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0e3da88-bf8c-4d9b-9350-4dcae0b69933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generic/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/CustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/IEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/IEntityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ProductDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threading/KronometreThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_catch/T11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/connect_db/DbHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Bilgiler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Bilgiler.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ab01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ab01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/customer/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +42,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HakanBatirhan/IdeaProjects/Java_Bilgiler"
+    "last_opened_file_path": "C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.32.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.20689656"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,7 +53,7 @@
       <recent name="interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T11">
+  <component name="RunManager" selected="Application.Ab01">
     <configuration name="Ab01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ab01" />
       <module name="Java_Bilgiler" />
@@ -122,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T11" />
         <item itemvalue="Application.Ab01" />
+        <item itemvalue="Application.T11" />
         <item itemvalue="Application.threading.Main" />
         <item itemvalue="Application.interfaces.i1.i1.Main" />
         <item itemvalue="Application.Ma" />
@@ -145,14 +138,59 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ab01.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/try_catch/T11.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

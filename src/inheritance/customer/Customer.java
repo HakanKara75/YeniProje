@@ -1,6 +1,8 @@
 package inheritance.customer;
 
-public class Customer extends Person{
+import generic.IEntity;
+
+public class Customer extends Person implements IEntity {
 
     String email;
 

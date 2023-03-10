@@ -1,3 +1,5 @@
+package connect_db;
+
 import connect_db.DbHelper;
 
 import javax.xml.transform.Result;
@@ -16,13 +18,12 @@ public  class Ab01 {
                 try{
 
                     connection= helper.getConnection();
-                    statement=connection.prepareStatement(
-                            "insert into sakila.actor(first_name) values (Tarik)");
 
 
-                    resultSet=statement.executeQuery("SELECT first_name from sakila.actor");
+
+                    resultSet=statement.executeQuery("SELECT name from world_x");
                     while (resultSet.next());
-                    System.out.println(resultSet.getString("first_name"));
+                    System.out.println(resultSet.getString("name"));
 
 
                 }catch(SQLException e){

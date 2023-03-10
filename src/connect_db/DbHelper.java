@@ -9,7 +9,7 @@ public class DbHelper {
 
     static  String username="root1";
     static String password="12345A.";
-    static String dbUrl="jdbc:mysql://localhost:3306/sakila";
+    static String dbUrl="jdbc:mysql://localhost:3306/world_x";
 
     public Connection getConnection() throws SQLException{
         return DriverManager.getConnection(dbUrl, username,password);

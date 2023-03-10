@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0e3da88-bf8c-4d9b-9350-4dcae0b69933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/connect_db/DbHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Bilgiler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Bilgiler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ab01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ab01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ab01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connect_db/Ab01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connect_db/DbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connect_db/DbHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,35 +37,35 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.32.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.20689656"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HakanBatirhan/IdeaProjects/Java_Bilgiler&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20689656&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ab01">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Ab01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ab01" />
+      <option name="MAIN_CLASS_NAME" value="connect_db.Ab01" />
       <module name="Java_Bilgiler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.a1.Ma" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ternary.Program" />
       <module name="Java_Bilgiler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.a1.*" />
+          <option name="PATTERN" value="ternary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Ab01" />
         <item itemvalue="Application.T11" />
         <item itemvalue="Application.threading.Main" />
         <item itemvalue="Application.interfaces.i1.i1.Main" />
-        <item itemvalue="Application.Ma" />
       </list>
     </recent_temporary>
   </component>

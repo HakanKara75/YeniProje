@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0e3da88-bf8c-4d9b-9350-4dcae0b69933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/VariablesScope01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist/OutOfMemoryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/A10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_statement/A10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instance_variable/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple_enum/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_builder/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asciivalue/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutable_immutable/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutable_immutable/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutable_immutable/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/S1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Caller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariablesScope01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +42,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HakanBatirhan/IdeaProjects/Java_Bilgiler",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.20689656"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HakanBatirhan/IdeaProjects/Java_Bilgiler&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20689656&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Caller">
-    <configuration name="C02_ekleme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_builder.C02_ekleme" />
+  <component name="RunManager" selected="Application.C1">
+    <configuration name="C1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concat.C1" />
       <module name="Java_Bilgiler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_builder.*" />
+          <option name="PATTERN" value="concat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,9 +78,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesScope01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scope.VariablesScope01" />
+    <configuration name="M1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mutable_immutable.M1" />
       <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mutable_immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scope.S1" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string_builder.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_builder.A" />
-      <module name="Java_Bilgiler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string_builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C1" />
         <item itemvalue="Application.Caller" />
+        <item itemvalue="Application.M1" />
+        <item itemvalue="Application.S1" />
         <item itemvalue="Application.if_statement.A10" />
-        <item itemvalue="Application.VariablesScope01" />
-        <item itemvalue="Application.string_builder.A" />
-        <item itemvalue="Application.C02_ekleme" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +137,17 @@
       <updated>1677138446710</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

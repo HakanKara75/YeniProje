@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0e3da88-bf8c-4d9b-9350-4dcae0b69933" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/asciivalue/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutable_immutable/M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutable_immutable/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutable_immutable/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/S1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b0e3da88-bf8c-4d9b-9350-4dcae0b69933" name="Changes" comment="&quot;m&quot;">
+      <change afterPath="$PROJECT_DIR$/src/passByValue/C05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariablesScope01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passByValue/C01_passByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passByValue/C01_passByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passByValue/C02_passByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passByValue/C02_passByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passByValue/C03_passByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passByValue/C03_passByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passByValue/C04_passByReferans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passByValue/C04_passByReferans.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,46 @@
       <recent name="interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C1">
+  <component name="RunManager" selected="Application.C03_passByValue">
+    <configuration name="C02_passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="passByValue.C02_passByValue" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passByValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="passByValue.C03_passByValue" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passByValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="passByValue.C05" />
+      <module name="Java_Bilgiler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passByValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concat.C1" />
       <module name="Java_Bilgiler" />
@@ -78,52 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mutable_immutable.M1" />
-      <module name="Java_Bilgiler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mutable_immutable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scope.S1" />
-      <module name="Java_Bilgiler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scope.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="if_statement.A10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_statement.A10" />
-      <module name="Java_Bilgiler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="if_statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_passByValue" />
+        <item itemvalue="Application.C02_passByValue" />
+        <item itemvalue="Application.C05" />
         <item itemvalue="Application.C1" />
         <item itemvalue="Application.Caller" />
-        <item itemvalue="Application.M1" />
-        <item itemvalue="Application.S1" />
-        <item itemvalue="Application.if_statement.A10" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677138446710</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;m&quot;">
+      <created>1679469374258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679469374258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +154,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m" />
+    <MESSAGE value="&quot;m&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;m&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -13,12 +13,13 @@ ve main method icinde ayri ayri yazdiralim
         System.out.println("lutfen bir sayi giriniz");
         int sayi= scan.nextInt();
         katlama(sayi);
-        System.out.println(sayi);//3
+        System.out.println(sayi);//main icindeki deger degismez 3
 
     }
 
     public static void katlama(int sayi) {
         sayi=sayi*3;
-        System.out.println(sayi);//9
+        System.out.println(sayi);//skop farkli oldugu icin burada deger degisir.9
+        //deger yukariyi etkilemez.
     }
 }

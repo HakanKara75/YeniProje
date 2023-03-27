@@ -12,5 +12,8 @@ ancak biz method icinde array ve listin yapisina dokunursak java orjinal yapimiz
     }
     public static void sayiyiDegistir(int[] a) {
         a[0]=5;
+/*
+b=a yapilmamis, bunu kabul eder. yapi bozulmamis sadece 1 eleman degismis.
+ */
     }
 }
